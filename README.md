@@ -4,6 +4,6 @@
 
 **Key Findings:**  
 
-Higher school budgets did not necessarily lead to better test results; in fact, schools with budgets in the highest range of $645 - $680 per student performed worse than those with budgets in the lowest range of less than $585 per student.
-Smaller and medium-sized schools significantly outperformed larger schools in math proficiency, with passing rates of 89-91% compared to 67%.
-Charter schools consistently outperformed public district schools across various metrics. Further analysis is needed to determine whether this is due to school practices or the smaller student populations served by charter schools.
+- Higher school budgets did not necessarily lead to better test results; in fact, schools with budgets in the highest range of $645 - $680 per student performed worse than those with budgets in the lowest range of less than $585 per student.
+- Smaller and medium-sized schools significantly outperformed larger schools in math proficiency, with passing rates of 89-91% compared to 67%.
+- Charter schools consistently outperformed public district schools across various metrics. Further analysis is needed to determine whether this is due to school practices or the smaller student populations served by charter schools.

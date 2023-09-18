@@ -13,3 +13,5 @@
 <img width="1050" alt="Reading" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/6e66618d-e5d4-4aae-9e29-cdb7ec424883">
 
 <img width="1030" alt="Math" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/cf0a131d-b6da-4874-a5bb-a09ecce64770">
+
+<img width="1185" alt="Screenshot 2023-09-18 at 12 38 09 AM" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/dc7b8e10-fdf3-4c0b-bb6d-c5109e8264e0">

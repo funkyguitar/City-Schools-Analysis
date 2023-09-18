@@ -11,4 +11,5 @@
 <img width="735" alt="Screenshot 2023-09-17 at 5 05 00 PM" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/01b80c67-1f9d-43b3-8c0c-4141ede5ade8">
 <img width="782" alt="Screenshot 2023-09-17 at 5 04 54 PM" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/5c16dddf-f3da-4baa-92de-92990a8a5b5e">
 <img width="1050" alt="Reading" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/6e66618d-e5d4-4aae-9e29-cdb7ec424883">
-<img width="1393" alt="Math" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/0ec65c05-0dd8-4e1d-b711-471ac913aa70">
+
+<img width="1030" alt="Math" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/cf0a131d-b6da-4874-a5bb-a09ecce64770">

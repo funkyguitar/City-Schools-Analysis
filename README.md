@@ -7,3 +7,8 @@
 - Higher school budgets did not necessarily lead to better test results; in fact, schools with budgets in the highest range of $645 - $680 per student performed worse than those with budgets in the lowest range of less than $585 per student.
 - Smaller and medium-sized schools significantly outperformed larger schools in math proficiency, with passing rates of 89-91% compared to 67%.
 - Charter schools consistently outperformed public district schools across various metrics. Further analysis is needed to determine whether this is due to school practices or the smaller student populations served by charter schools.
+
+<img width="1512" alt="Screenshot 2023-09-17 at 5 05 00 PM" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/4c19eae7-db5e-4b98-a7d8-528b8685f321">
+<img width="782" alt="Screenshot 2023-09-17 at 5 04 54 PM" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/5c16dddf-f3da-4baa-92de-92990a8a5b5e">
+<img width="1050" alt="Reading" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/6e66618d-e5d4-4aae-9e29-cdb7ec424883">
+<img width="1393" alt="Math" src="https://github.com/funkyguitar/City-Schools-Analysis/assets/104698553/0ec65c05-0dd8-4e1d-b711-471ac913aa70">
